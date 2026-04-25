@@ -118,5 +118,5 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
 <a>🌱</a>
 </p>
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Caerlower/caerlower/0c2502384e53ca5ffdebbea867e54170f4d0efe6/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
