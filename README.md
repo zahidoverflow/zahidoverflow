@@ -94,9 +94,7 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidoverflow&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/zahidoverflow/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/zahidoverflow/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidoverflow&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
-
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark" alt="GitHub Streak" /></a>
 
 
 <h2 id="donate" align=''> Support⚡️</h2>
@@ -106,7 +104,7 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
 
 <p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
 
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/zahidoverflow"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
