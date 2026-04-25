@@ -1,7 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I+am+zahidoverflow+%3C3;I+hack+to+live." alt="Title"></img>
@@ -26,15 +22,16 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
 - **Name**: Zahid
 - **From**: (Bangladesh)
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
+- I have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **zahidsec@proton.me**
 
 </details>
-<br>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <h2 id="present_status"> Present Status </h3>
 
@@ -52,11 +49,10 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-<br>
+
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -95,9 +91,9 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacke
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidoverflow&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/zahidoverflow/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/zahidoverflow/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidoverflow&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
