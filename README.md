@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I+am+zahidoverflow+%3C3;I+hack+to+live." alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I+am+zahidoverflow+%3C3;I+hack+to+live." alt="Title"></img>
   </a>
 </div>
 
@@ -13,11 +13,11 @@
 
 
 <h2 align="left">
-  Hi there
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacker, Security Researcher, Bug Hunter and aspiring Cybersecurity Specialist. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
