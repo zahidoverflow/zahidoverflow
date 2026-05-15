@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, a White Hacker, Security Researcher, Bug Hunter and aspiring Cybersecurity Specialist. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacker, Security Researcher, Bug Hunter and aspiring Cybersecurity Specialist. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
