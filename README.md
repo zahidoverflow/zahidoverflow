@@ -29,10 +29,6 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 
 </details>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
-
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
@@ -49,10 +45,7 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
-
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-
-
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -85,24 +78,23 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
   </div>
 </div>
 
----
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidoverflow&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/zahidoverflow/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/zahidoverflow/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidoverflow&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark" alt="GitHub Streak" /></a>
 
 
 <h2 id="donate" align=''> Support⚡️</h2>
 
+
+
 <details>
 <summary>Buy Me A Coffee</summary>
 
 <p align="center"><img src="" width="80%" height="auto"/></p>
+
 
 <p align="center"><a href="https://buymeacoffee.com/zahidoverflow"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
@@ -117,6 +109,10 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 <p align="center">
 <a>🌱</a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Caerlower/caerlower/0c2502384e53ca5ffdebbea867e54170f4d0efe6/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
