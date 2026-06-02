@@ -25,7 +25,7 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 - I have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **zahidoverflow@gmail.com**
+- Reach me out — **zahidoverflow@gmail.com**
 
 </details>
 
