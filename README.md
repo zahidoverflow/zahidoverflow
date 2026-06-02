@@ -83,7 +83,7 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
 <img align="right" width="44%" src="https://i.imgur.com/T5eFby9.png"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&background=0D1117&border=00ADD8&fire=FF6633" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark" alt="GitHub Streak" /></a>
 
 
 <h2 id="donate" align=''> Support⚡️</h2>
