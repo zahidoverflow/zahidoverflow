@@ -83,11 +83,10 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 
 <h2 id="github_stats">GitHub Stats 👨‍💻</h2>
 
-<img align="right" height="165" src="https://i.imgur.com/T5eFby9.png" alt="Vibe Coder" />
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="165" src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&card_width=350&background=120B1E&border=A855F7&ring=A855F7&fire=D946EF&currStreakLabel=C084FC&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=A78BFA" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zahidoverflow&show_icons=true&theme=dark&bg_color=120B1E&border_color=A855F7&title_color=A855F7&icon_color=D946EF&text_color=E2E8F0" alt="GitHub Stats" /></a>
-
-<br clear="both" />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark&background=120B1E&border=A855F7&ring=A855F7&fire=D946EF&currStreakLabel=C084FC&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=A78BFA" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zahidoverflow&show_icons=true&theme=dark&bg_color=120B1E&border_color=A855F7&title_color=A855F7&icon_color=D946EF&text_color=E2E8F0" alt="GitHub Stats" /></a>
+</div>
 
 <h2 id="donate">Support ⚡️</h2>
 
