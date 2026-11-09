@@ -81,32 +81,29 @@ I am **[`zahidoverflow`](https://linkedin.com/in/zahidoverflow)**, A White Hacke
 
 <h2 id="github_stats">GitHub Stats 👨‍💻</h2>
 
-<img align="right" width="25%" src="https://i.imgur.com/T5eFby9.png" alt="Vibe Coder" />
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark" alt="GitHub Streak" /></a>
+<img align="right" height="195" src="https://i.imgur.com/T5eFby9.png" alt="Vibe Coder" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="195" src="https://streak-stats.demolab.com?user=zahidoverflow&theme=dark" alt="GitHub Streak" /></a>
 
+<br clear="both" />
 
 <h2 id="donate">Support ⚡️</h2>
 
-<details>
-<summary>Buy Me A Coffee</summary>
+<div align="center">
+  <details>
+    <summary>Buy Me a Coffee</summary>
+    <br />
+    <a href="https://buymeacoffee.com/zahidoverflow">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    </a>
+  </details>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/zahidoverflow">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
-</details>
-
-
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-<p align="center">
-  🌱
-</p>
-
-<br clear="both" />
+  <p>
+    <b><i>"Never give up. Never back down."</i></b>
+  </p>
+  <p>
+    🌱
+  </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto" alt="Banner" /></p>
